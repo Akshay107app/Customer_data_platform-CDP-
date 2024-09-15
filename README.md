@@ -5,7 +5,7 @@ For Building and Managing pipelines
 
 ## Customer experience (CX) at scale means being able to create and manage customer experiences for all types of customers and groups, and for any part of a business
 
-![Uploading image.png…]()
+![Uploading image.png…](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peoplemetrics.com%2Fblog%2Fwhat-is-customer-experience&psig=AOvVaw0OHrXlqmfkAZUhW-IprBxH&ust=1726450665580000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDX5Yjow4gDFQAAAAAdAAAAABAR)
 
 
 https://contentsquare.com/guides/customer-experience/metrics/#:~:text=Customer%20experience%20(CX)%20is%20the,keep%20its%20customers%20over%20time
