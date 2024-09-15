@@ -3,6 +3,10 @@ For Building and Managing pipelines
 
 ### A customer data platform (CDP) is an advanced customer data management software solution consisting of a centralized database with the ability to ingest, integrate, manage, and deliver customer data to other technology solutions in order to personalize the customer experience (CX) at scale.
 
+![Uploading image.png…](https://cdp.com/wp-content/uploads/2021/12/cdp-diagram-v2-03-R1_blue-only-1024x987.jpg)
+
+
+---
 ## Customer experience (CX) at scale means being able to create and manage customer experiences for all types of customers and groups, and for any part of a business
 
 ![Uploading image.png…](https://www.peoplemetrics.com/hs-fs/hubfs/customer-experience-diagram.png?width=870&name=customer-experience-diagram.png)
