@@ -19,4 +19,20 @@ For Building and Managing pipelines
 https://contentsquare.com/guides/customer-experience/metrics/
 ------
 
+## Key responsibilities in CDP data engineering include:
 
+- Data Ingestion: Collecting customer data from multiple sources like CRM systems, websites, mobile apps, social media, and third-party systems into the CDP. This could involve setting up pipelines to bring data from APIs, databases, and event streams into the platform.
+
+- Data Integration: Merging data from various systems to create a unified customer profile. This may involve deduplication, matching, and resolving conflicts between data sources to provide a single, comprehensive view of each customer.
+
+- Data Transformation: Cleaning, enriching, and transforming raw data into a format that can be easily analyzed or used for marketing and business strategies. This includes standardizing data formats, handling missing values, and deriving new metrics.
+
+- Data Storage: Implementing efficient data storage solutions to store and manage large volumes of customer data. This often includes the use of cloud storage solutions like AWS S3, Google Cloud Storage, or Azure Data Lake.
+
+- Real-Time Processing: Supporting real-time data processing to allow businesses to engage with customers based on their recent actions or behavior. This involves working with event-driven architectures and streaming platforms like Apache Kafka or Azure Event Hubs.
+
+- Data Governance & Security: Ensuring compliance with data privacy regulations (e.g., GDPR, CCPA) and implementing data governance policies to protect customer data. This includes access controls, encryption, and auditing.
+
+- ETL Pipelines: Building and maintaining Extract, Transform, Load (ETL) or ELT pipelines to ensure data is processed and available for downstream use in analytics or marketing automation systems.
+
+- Analytics & Reporting: Enabling data analytics by making customer data available for querying, reporting, and machine learning models. This could involve integration with BI tools like Power BI or Tableau and support for predictive analytics.
