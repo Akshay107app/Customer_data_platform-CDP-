@@ -27,10 +27,11 @@ In the context of a Customer Data Platform (CDP), a Data Pipeline and Workflow A
 - Normalization: Ensuring data from different sources has a consistent format.
 - Data Storage: After transformation, data is stored in a centralized location like a data lake or warehouse, where it can be accessed for further analysis. In CDP, storage is optimized for real-time access and large-scale querying.
 
-# Data Activation: This final stage sends the processed data to various marketing tools, customer service platforms, or analytics engines to drive customer engagement and insights.
+# Data Activation:
+## This final stage sends the processed data to various marketing tools, customer service platforms, or analytics engines to drive customer engagement and insights.
 
 2. Workflow Automation in CDP:
-Workflow Automation refers to setting up automatic processes that trigger actions when specific data conditions are met. For example:
+      - Workflow Automation refers to setting up automatic processes that trigger actions when specific data conditions are met. For example:
 
 - **ETL (Extract, Transform, Load) Automation**: Workflows ensure that data ingestion, transformation, and loading happen continuously without manual intervention.
 - **Real-Time Triggers**: Based on customer behaviors (e.g., purchasing a product, visiting a website), workflows can activate personalized campaigns.
