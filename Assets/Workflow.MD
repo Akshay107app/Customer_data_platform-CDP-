@@ -13,7 +13,7 @@ A CRM works well as an operational tool for managing sales performance and pipel
 
 In the context of a Customer Data Platform (CDP), a Data Pipeline and Workflow Automation help streamline the process of collecting, transforming, and activating customer data across various channels. Here's how these concepts work in the role of a CDP Data Engineer:
 
-1. Data Pipelines in CDP:
+## 1. Data Pipelines in CDP:
 - A data pipeline in a CDP refers to the series of steps through which data moves from raw collection to its final destination, usually a data warehouse or a system that can activate it for marketing and customer engagement.
 
 ## Key stages of a data pipeline include:
@@ -30,7 +30,7 @@ In the context of a Customer Data Platform (CDP), a Data Pipeline and Workflow A
 # Data Activation:
 ## This final stage sends the processed data to various marketing tools, customer service platforms, or analytics engines to drive customer engagement and insights.
 
-2. Workflow Automation in CDP:
+## 2. Workflow Automation in CDP:
       - Workflow Automation refers to setting up automatic processes that trigger actions when specific data conditions are met. For example:
 
 - **ETL (Extract, Transform, Load) Automation**: Workflows ensure that data ingestion, transformation, and loading happen continuously without manual intervention.
