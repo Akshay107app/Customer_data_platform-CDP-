@@ -4,3 +4,26 @@ A CDP connects to a wide range of technology platforms, data sources and channel
 A customer data platform ingests and integrates those data sets to create a single unified customer profile. This integration process is called identity resolution or data unification. Customer identity resolution includes sophisticated algorithms to stitch identifiers from multiple systems, as well as automate graph creation and continuously unifying data into a profile as customers engage in real-time. During the unification process, data is validated, cleaned, and de-duped to create a single customer view. Profiles are then enriched with first, second, and third-party data sources to fill in missing attributes and update other attributes with more recent information.
 
 CDPs can also analyze and segment customer profiles using rules or machine learning, perform predictive scoring, and journey orchestration capabilities. Some more advanced CDPs provide machine learning (ML) and artificial intelligence (AI) for predictive analytics and audience segmentation. With customer journey orchestration capabilities, marketers can analyze customer interactions throughout the entire customer journey to deliver the right message, at the right time, on the right channels.
+
+
+
+What Does a CDP Do?
+A CDP improves the efficacy and efficiency of your data-driven marketing campaigns. They accomplish this by deploying data-driven insights to tailor personalized experiences at scale.
+
+1. Combining Structured and Unstructured Data
+CDPs allow you to combine structured, unstructured and semi-structured data to create single customer view. A CDP can ingest data from any source, including email, social media, loyalty, and systems like enterprise resource planning (ERP), customer relationship management (CRM) and data management platforms (DMPs). Customer data platforms can analyze and segment customer profiles using rules or machine learning, perform predictive scoring, and provide customer journey orchestration.
+
+Read More: Structured Data Vs. Unstructured Data, Explained
+
+2. Integration with the MarTech Stack
+Customer data platforms are designed to easily integrate with the rest of your technology stack through either pre-built connectors or application programming interfaces (APIs). This allows CDPs to function as a smart hub, making your technology stack more agile, flexible, and scalable by allowing you to plug in the best-of-breed software for your particular industry and applications
+
+Read More: How To Integrate A CDP Into Your MarTech Stack
+
+3. Democratization of Data
+CDPs allows data to be democratized so it can be used across the entire organization (marketing, sales, customer service, support, etc.) A CDP allows a business to tailor its communications and build lasting relationships with customers that improve retention rates and lower churn. CDPs are also a great way to reduce customer acquisition costs in favor of higher retention rates.
+
+Read More: How To Achieve Data Democratization With A CDP
+
+4. Marketing Activation and Personalization
+A CDP makes customer data available to other systems for campaign activation with insights that improve the customer experience across the entire omnichannel customer journey. CDPs allows marketers to apply advanced personalization, identify and segment key target audiences, provide relevant product and content recommendations, and implement retargeting programs.
