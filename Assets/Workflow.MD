@@ -34,6 +34,8 @@ In the context of a Customer Data Platform (CDP), a Data Pipeline and Workflow A
 - Normalization: Ensuring data from different sources has a consistent format.
 - Data Storage: After transformation, data is stored in a centralized location like a data lake or warehouse, where it can be accessed for further analysis. In CDP, storage is optimized for real-time access and large-scale querying.
 
+![Uploading image.png…](https://www.cloudera.com/content/dam/www/marketing/images/diagrams/cdp-private-cloud-diagram.jpg)
+
 # Data Activation:
 ## This final stage sends the processed data to various marketing tools, customer service platforms, or analytics engines to drive customer engagement and insights.
 
