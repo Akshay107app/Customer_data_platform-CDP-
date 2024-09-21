@@ -3,6 +3,14 @@
 ## What Is CDP and How Does it work?
 - A **customer data platform (CDP)** is designed for marketing. It collects and unifies first-party customer data from multiple sources to build a single, coherent, complete view of each customer. It then makes that data available to marketers to create targeted and personalized marketing campaigns.
 
+A CDP connects to a wide range of technology platforms, data sources and channels by using built-in connectors, SDKs, webhooks, and APIs. They ingest and integrate data from multiple disparate sources, including profile data and real-time interaction data (behavioral data, transactional data), campaign data, product data, customer support data, mobile, POS, marketing, device, and internet-of-things (IoT) data.
+
+A customer data platform ingests and integrates those data sets to create a single unified customer profile. This integration process is called identity resolution or data unification. Customer identity resolution includes sophisticated algorithms to stitch identifiers from multiple systems, as well as automate graph creation and continuously unifying data into a profile as customers engage in real-time. During the unification process, data is validated, cleaned, and de-duped to create a single customer view. Profiles are then enriched with first, second, and third-party data sources to fill in missing attributes and update other attributes with more recent information.
+
+CDPs can also analyze and segment customer profiles using rules or machine learning, perform predictive scoring, and journey orchestration capabilities. Some more advanced CDPs provide machine learning (ML) and artificial intelligence (AI) for predictive analytics and audience segmentation. With customer journey orchestration capabilities, marketers can analyze customer interactions throughout the entire customer journey to deliver the right message, at the right time, on the right channels.
+
+
+
 
 The best way to explain this is by example. Say a company is trying to get a better understanding of their customers. Their CDP would be used to collect data from touch points like Facebook, the company's website, email, and any other place a customer might interact with the company
 
