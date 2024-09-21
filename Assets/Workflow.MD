@@ -9,8 +9,7 @@ A customer data platform ingests and integrates those data sets to create a sing
 
 CDPs can also analyze and segment customer profiles using rules or machine learning, perform predictive scoring, and journey orchestration capabilities. Some more advanced CDPs provide machine learning (ML) and artificial intelligence (AI) for predictive analytics and audience segmentation. With customer journey orchestration capabilities, marketers can analyze customer interactions throughout the entire customer journey to deliver the right message, at the right time, on the right channels.
 
-
-
+![Uploading image.png…](https://dmwnh9nwzeoaa.cloudfront.net/2022-12/Customer-Data-Platform.png?d=1555x779)
 
 The best way to explain this is by example. Say a company is trying to get a better understanding of their customers. Their CDP would be used to collect data from touch points like Facebook, the company's website, email, and any other place a customer might interact with the company
 
