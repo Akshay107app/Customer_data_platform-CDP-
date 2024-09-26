@@ -38,5 +38,3 @@ https://contentsquare.com/guides/customer-experience/metrics/
 - Analytics & Reporting: Enabling data analytics by making customer data available for querying, reporting, and machine learning models. This could involve integration with BI tools like Power BI or Tableau and support for predictive analytics.
 
 ![Uploading image.png…](https://www.nitendratech.com/wp-content/uploads/2023/04/Data_Platform_Layers.drawio.png)
-
-https://www.nitendratech.com/wp-content/uploads/2023/04/Data_Platform_Layers.drawio.png
