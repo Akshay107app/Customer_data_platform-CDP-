@@ -1,3 +1,6 @@
+
+###### CDPs ensure that businesses deliver the right message to the right customer at the right time.
+
 # Customer_data_platform-CDP-
 For Building and Managing pipelines
 
