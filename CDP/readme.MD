@@ -97,7 +97,7 @@ A **Customer Data Platform (CDP) Pipeline** is a structured **data engineering w
   "Last_Purchase": "2024-01-10",
   "Preferred Channel": "Email"
 }
-
+```
 
 ## **Tech Stack**
 - **Graph Databases (Neo4j)** for Customer Relationships  
