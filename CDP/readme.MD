@@ -187,3 +187,24 @@ A **Customer Data Platform (CDP) Pipeline** is a structured **data engineering w
 
 ## **Final Thoughts**
 This **CDP Pipeline** enables real-time **customer data management**, advanced **AI-driven segmentation**, and **omnichannel marketing activation**.
+
+
+1. Data Collection (Web, Mobile, CRM, POS, Social, Ads)  
+   ↓  
+2. Data Ingestion (Kafka, Kinesis, APIs, Batch Processing)  
+   ↓  
+3. Identity Resolution & Data Cleaning (De-duplication, Normalization)  
+   ↓  
+4. Data Transformation & Processing (ETL, Spark, DBT, Airflow)  
+   ↓  
+5. Customer Profile Creation (Single Customer View, Data Warehouse)  
+   ↓  
+6. Segmentation & Personalization (Behavioral Insights, AI Models)  
+   ↓  
+7. Data Activation (Campaigns, CRM, Ads, Website Personalization)  
+   ↓  
+8. Real-Time Data Processing & Triggers (Apache Flink, Event-Driven Systems)  
+   ↓  
+9. Reporting & Optimization (Dashboards, Predictive Analytics)  
+   ↓  
+10. Data Sharing & API Integrations (BI Tools, External Platforms)
