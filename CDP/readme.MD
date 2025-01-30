@@ -4,7 +4,7 @@ A **Customer Data Platform (CDP) Pipeline** is a structured **data engineering w
 
 - Customer data platform is a tool helps you bring reliable data tp every team working , it helps with data collection, data govarnance, data processing, data activation.
 ---
-![Uploading image.png…](https://github.com/Akshay107app/Customer_data_platform-CDP-/blob/main/Assets/Screenshot%202025-01-30%20175646.png)
+![Uploading image.png…](https://github.com/Akshay107app/Customer_data_platform-CDP-/blob/main/Assets/output%20(1).png)
 
 ## **1. Data Ingestion (Collection)**
 ### **Data Sources:**
@@ -211,4 +211,4 @@ This **CDP Pipeline** enables real-time **customer data management**, advanced *
 10. Data Sharing & API Integrations (BI Tools, External Platforms)
 
 ```
-https://github.com/Akshay107app/Customer_data_platform-CDP-/blob/main/Assets/Screenshot%202025-01-30%20175646.png
+![Uploading image.png…](https://github.com/Akshay107app/Customer_data_platform-CDP-/blob/main/Assets/Screenshot%202025-01-30%20175646.png)
