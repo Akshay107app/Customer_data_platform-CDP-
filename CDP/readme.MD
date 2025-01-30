@@ -1,7 +1,8 @@
 
 # **CDP Data Pipeline Workflow - Real-Time Project Implementation**
-A **Customer Data Platform (CDP) Pipeline** is a structured **data engineering workflow** that integrates, processes, and activates customer data for **personalized marketing, analytics, and decision-making**. Below is the **corrected and detailed** breakdown of each step, as implemented in real-world projects.
+A **Customer Data Platform (CDP) Pipeline** is a structured **data engineering workflow** that integrates, processes, and activates customer data for **personalized marketing, analytics, and decision-making**. 
 
+Customer data platform is a tool helps you bring reliable data tp every team working , it helps with data collection, data govarnance, data processing, data activation.
 ---
 
 ## **1. Data Ingestion (Collection)**
